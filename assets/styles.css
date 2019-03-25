@@ -1,0 +1,28 @@
+body {
+    background-color: #4c6ef5;
+}
+.container {
+    margin-top: 40px;
+    background-color: white;
+    text-align: center;
+}
+
+.navbar {
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-bottom: solid;
+    border-color: black;
+}
+
+.nav-link {
+    color: white;
+}
+
+.card {
+    margin: auto;
+}
+
+
+
+
