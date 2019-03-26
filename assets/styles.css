@@ -5,17 +5,29 @@ body {
 h1 {
     color: #4c6ef5;
     font-weight: bold;
-    text-align: center;
+    font-family: 'Permanent Marker', cursive;
 }
+
+h5 {
+    color: #4c6ef5;
+    font-family: 'Permanent Marker', cursive;
+}
+
 
 .display-3 {
     text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.display-4 {
+    font-family: 'Permanent Marker', cursive;
 }
 
 .display-5 {
     text-align: center;
     color: black;
     font-size: 24px;
+    font-family: 'Assistant', sans-serif;
 }
 
 
@@ -59,14 +71,19 @@ h1 {
 
 .nav-link {
     color: white;
+    font-family: 'Assistant', sans-serif;
 }
 
+.navbar-brand {
+    font-family: 'Permanent Marker', cursive;
+}
 
 
 .card-body {
     margin: auto;
-    font-size: 16px;
+    font-size: 18px;
     height: 300px;
+    font-family: 'Assistant', sans-serif;
 }
 
 .card-img {
@@ -89,6 +106,7 @@ h1 {
 
 .btn-btn-primary {
     align-self: center;
+    font-family: 'Assistant', sans-serif;
 }
 
 .fixed-bottom {
@@ -96,9 +114,6 @@ h1 {
     height: 85px;
 }
 
-h5 {
-    color: #4c6ef5;
-}
 
 #myVideo {
     position: fixed;
@@ -139,6 +154,7 @@ h5 {
 }
 
 
-
+/*Add Media Queries*/
+/*for about me header, and for portfolio page cards*/
 
 
