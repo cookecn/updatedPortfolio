@@ -5,6 +5,17 @@ body {
 h1 {
     color: #4c6ef5;
     font-weight: bold;
+    text-align: center;
+}
+
+.display-3 {
+    text-align: center;
+}
+
+.display-5 {
+    text-align: center;
+    color: black;
+    font-size: 24px;
 }
 
 
@@ -43,17 +54,27 @@ h1 {
 .navbar {
     background-color: black;
     color: white;
+    padding-right: 20px;
 }
 
 .nav-link {
     color: white;
 }
 
-.card {
+
+
+.card-body {
     margin: auto;
     font-size: 16px;
-    width: 200px;
-    height: 500px;
+    height: 300px;
+}
+
+.card-img {
+    height: 400px;
+}
+
+.card-img-overlay {
+    text-align: center;
 }
 
 .card-img-top {
