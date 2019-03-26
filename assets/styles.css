@@ -1,18 +1,48 @@
 body {
     background-color: #4c6ef5;
 }
-.container {
-    margin-top: 40px;
-    background-color: white;
-    text-align: center;
+
+h1 {
+    color: #4c6ef5;
+    font-weight: bold;
 }
+
+
+.mb-0 {
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.mt-0 {
+    color: #4c6ef5;
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
+.col-lg-7 {
+    background-color: transparent;
+    border-radius: 25px;
+}
+
+.namePlate {
+    background-color: transparent;
+}
+.container {
+    margin-top: 45px;
+    color: black;
+}
+
+.container-fluid {
+    margin-top: 45px;
+    color: black;
+}
+
 
 .navbar {
     background-color: black;
     color: white;
-    text-align: center;
-    border-bottom: solid;
-    border-color: black;
 }
 
 .nav-link {
@@ -21,7 +51,72 @@ body {
 
 .card {
     margin: auto;
+    font-size: 16px;
+    width: 200px;
+    height: 500px;
 }
+
+.card-img-top {
+    height: 238.66px;
+}
+
+.card-title {
+    color: lightcoral;
+    font-size: 34px;
+}
+
+
+.btn-btn-primary {
+    align-self: center;
+}
+
+.fixed-bottom {
+    background-color: black;
+    height: 85px;
+}
+
+h5 {
+    color: #4c6ef5;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    z-index: -1000;
+  }
+
+.align-self-start {
+    border-radius: 50%;
+    height: 300px;
+    width: 325px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.display-4 {
+    padding-top: 100px;
+    margin: auto;
+    color: #4c6ef5;
+    font-weight: bold;
+}
+
+.lead {
+    color: white;
+}
+
+.align-self-center {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
 
 
 
