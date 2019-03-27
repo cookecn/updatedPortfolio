@@ -7,6 +7,16 @@ Homework Updated-Portfolio
 # Technology
 *HTMl, CSS
 
+#Gihub Links to projects:
+*
+*
+*
+*
+*
+*
+*
+*
+
 # About
 The updated portfolio is basically a new version of the origional portfolio we created, but allowing us to control what we put in there. This was a lot of fun testing what I could and couldn't use in the portfolio. This will most likely be changed almost completely in the future, but still fun nontheless. 
 # Contributions
