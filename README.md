@@ -33,9 +33,13 @@ Homework Updated-Portfolio
 
 **This was one of my favorite projects, as it felt more wild and designer friendly. The user can input an item, and that item would be stored in a button. Once the button is clicked, the user will see 10 GIFs appear on the screen with the ability to activate them or inactivate them. The challenge with this was 100% in the activation/de-activation of the GIFs. I used data-attributes to give each individual GIF an attribute of active/inactive, and on user-click, the GIF would switch to the other attribute. 
 
+*ADD THE REST OF THE PROJECTS HERE
+
 
 # About
 The updated portfolio is basically a new version of the origional portfolio we created, but allowing us to control what we put in there. This was a lot of fun testing what I could and couldn't use in the portfolio. This will most likely be changed almost completely in the future, but still fun nontheless. 
+# Future Additions:
+* In the future, I will add the ability for the protfolio page to reflect both the project and its github location. Once I have mostly completed the Trilogy course at Vanderbilt I will add this feature. I also, want to remove the "about me" page photos and replace with icons that represent the courses/tecchnologies that I have knowledge and expertise in.
 # Contributions
 * As of now, this repository should only be changed/altered via Vanderbilt University professors and TA's from the bootcamp.
 
